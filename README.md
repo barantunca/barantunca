@@ -35,7 +35,6 @@ ama merak edip araştırmadan hiçbir yere varılmadığını öğrendim.
 | :--- | :--- | :--- | :--- |
 | **YerBul** | Fırat kampüsündeki kütüphane, etüt salonu ve kafelerin doluluk durumunu öğrenci bildirimleriyle canlı haritada gösterir. 22+ doğrulanmış mekân, masa QR kodları, ağırlıklı konsensüs. | React · FastAPI · PostgreSQL · Leaflet | [Demo](https://yer-bul.vercel.app) · [Kaynak](https://github.com/barantunca/yer-bul-showcase) |
 | **Berber Randevu** | Berberler için randevu takibi. Telefondan aç, kullan. | JavaScript · HTML/CSS | [Demo](https://berber-randevu-wheat.vercel.app) · [Kaynak](https://github.com/barantunca/berber_randevu) |
-| **Mr. Fridge** | Buzdolabındaki malzemeleri takip eder, onlarla yapılabilecek tarifleri önerir. | Python | [Kaynak](https://github.com/barantunca/Mr.-Fridge) |
 
 ## Teknolojiler
 
