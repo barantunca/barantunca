@@ -1,54 +1,75 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Baran
+# Baran Tunca
 
-### Fırat Üniversitesi Yazılım Mühendisliği Öğrencisi
+**Yazılım Mühendisliği öğrencisi** · Fırat Üniversitesi · İzmir
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/baran-tunca/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:barantunca25@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=barantunca&label=Profile%20Views&color=1f6feb&style=for-the-badge)
+[LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [E-posta](mailto:barantunca25@gmail.com) · [YerBul](https://yer-bul.vercel.app) · [English](https://github.com/barantunca/barantunca/blob/main/README.en.md)
 
 </div>
 
 ---
 
-Merhaba, Ben Baran, Fırat'ta Yazılım Mühendisliği okuyan üçüncü sınıf bir öğrenciyim. Kafama takılan problemleri doğru toollarla çözmek ve kendimi geliştirmek için burdayım.
+Üçüncü sınıftayım. İlgimi çeken şey tek tek özellikler değil, bir yazılımın neden o
+şekilde bölündüğü: hangi kural nereye ait, hangi katman neyi bilmemeli, bugün verdiğim
+bir karar altı ay sonra hâlâ savunulabilir mi.
 
-### 🔨 Nelerle uğraşıyorum?
+Yapay zekâ araçlarını yoğun kullanıyorum, ama ürettikleri koda soru sormadan
+güvenmiyorum. Asıl işim sınırları çizmek: neyin nereye ait olduğuna ve neye
+güvenilmeyeceğine karar vermek. Henüz öğrenciyim, her şeyi bildiğimi iddia etmiyorum —
+ama merak edip araştırmadan hiçbir yere varılmadığını öğrendim.
 
-Şu sıralar özellikle web developmenta odaklandım. Frontend tarafında React ile çalışıyorum, backend için Python ve FastAPI kullanmaya çalışıyorum :D. Veritabanı olarak PostgreSQL ile haşır neşirim. Bunların yanında Git, Vercel gibi temel araçları da aktif olarak kullanıyorum.
+## Şu an
 
-Yapay Zeka araçları kullanarak iş yükünü azaltıp problemlere ve çözümlerine odaklanmaya çalışıyorum. Yazdığım projelerin mimarileri üzerine kafa yoruyorum sürekli. AI'ı doğru şekilde kullanmaya çalışırken bir yandan da yazılım mühendisliğinin temellerini öğreniyorum.
+- **YerBul**'u React Native + Expo'ya taşıyorum; veri katmanı Supabase'e geçiyor.
+- Alan mantığını React'ten, veritabanından ve temadan bağımsız saf bir çekirdekte
+  topluyorum — böylece arayüz kurmadan test edilebiliyor. Verdiğim mimari kararları
+  ADR olarak yazıyorum, çünkü altı ay sonra gerekçeyi hatırlamıyor insan.
+- Bu dönem öğrendiğim şey: erişilebilirlik sonradan sürülen bir cila değil. Bir önceki
+  renk paletim gözle güzel görünüyordu, ama beş durum rozetinin beşi de kontrast
+  testini geçemiyordu.
 
-Henüz öğrenciyim, bu yüzden her şeyi bildiğimi iddia etmiyorum. Ama bir şeyleri merak edip araştırıp denemeden bi yere varılmadığını fark ettim.
+## Projeler
 
-### 🛠️ Teknolojiler
+| Proje | Ne yapıyor | Teknolojiler | |
+| :--- | :--- | :--- | :--- |
+| **YerBul** | Fırat kampüsündeki kütüphane, etüt salonu ve kafelerin doluluk durumunu öğrenci bildirimleriyle canlı haritada gösterir. 22+ doğrulanmış mekân, masa QR kodları, ağırlıklı konsensüs. | React · FastAPI · PostgreSQL · Leaflet | [Demo](https://yer-bul.vercel.app) · [Kaynak](https://github.com/barantunca/yer-bul-showcase) |
+| **Berber Randevu** | Berberler için randevu takibi. Telefondan aç, kullan. | JavaScript · HTML/CSS | [Demo](https://berber-randevu-wheat.vercel.app) · [Kaynak](https://github.com/barantunca/berber_randevu) |
+| **Mr. Fridge** | Buzdolabındaki malzemeleri takip eder, onlarla yapılabilecek tarifleri önerir. | Python | [Kaynak](https://github.com/barantunca/Mr.-Fridge) |
+
+## Teknolojiler
+
+<table>
+<tr><td><b>Diller</b></td><td>TypeScript · JavaScript · Python · C#</td></tr>
+<tr><td><b>Arayüz</b></td><td>React · React Native (Expo) · Leaflet</td></tr>
+<tr><td><b>Sunucu &amp; veri</b></td><td>FastAPI · Supabase · PostgreSQL</td></tr>
+<tr><td><b>Araçlar</b></td><td>Git · Vercel · Jest · Figma</td></tr>
+</table>
+
+## GitHub
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barantunca&theme=github_dark">
+  <img alt="GitHub katkı özeti" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=barantunca&theme=github">
+</picture>
 
 </div>
 
-### 🚀 Şu an üzerinde çalıştığım proje
-
-**[YerBul](https://yer-bul.vercel.app)** — Fırat Üniversitesi kampüsündeki kütüphane ve çalışma salonlarının anlık doluluk durumunu kitle kaynaklı bildirimlere dayalı olarak haritada gösteren bir uygulama. Sınav döneminde boşuna yürüyüp geri dönmemek için yaptım, kullanılabilir bir şeye dönüştü.
-
-### 📬 İletişim
-
-- 💼 LinkedIn: [linkedin.com/in/baran-tunca](https://www.linkedin.com/in/baran-tunca/)
-- ✉️ Mail: [barantunca25@gmail.com](mailto:barantunca25@gmail.com)
+<!--
+  Not: github-readme-stats.vercel.app ortak örneği şu an kapalı (DEPLOYMENT_PAUSED).
+  Kendi kopyanı Vercel'e deploy edince aşağıdaki blok çalışır; URL'deki <kendi-kopyan>
+  yerine kendi alan adını yaz ve bu yorumu kaldır.
 
 <div align="center">
-
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://<kendi-kopyan>.vercel.app/api/top-langs/?username=barantunca&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&exclude_repo=NotePad,SpeechToTextApp,FlappyBirdProjectCsharp,LocalChatApp,kumpirpat-">
+  <img alt="En çok kullandığım diller" src="https://<kendi-kopyan>.vercel.app/api/top-langs/?username=barantunca&layout=compact&langs_count=6&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f2328&exclude_repo=NotePad,SpeechToTextApp,FlappyBirdProjectCsharp,LocalChatApp,kumpirpat-">
+</picture>
 </div>
+-->
+
+## İletişim
+
+[linkedin.com/in/baran-tunca](https://www.linkedin.com/in/baran-tunca/) · [barantunca25@gmail.com](mailto:barantunca25@gmail.com)
