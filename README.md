@@ -1,13 +1,14 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img alt="Baran Tunca: yapay zekâ ajanlarıyla yazılım geliştiriyorum. Yazılım Mühendisliği · Fırat Üniversitesi · İzmir" src="assets/header-light.svg" width="800">
-</picture>
+# Baran Tunca
+
+Yazılım Mühendisliği · Fırat Üniversitesi · İzmir
 
 [LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [E-posta](mailto:barantunca25@gmail.com) · [English](https://github.com/barantunca/barantunca/blob/main/README.en.md)
 
 </div>
+
+---
 
 Üçüncü sınıf bir yazılım mühendisliği öğrencisi olarak, yazılımı çoğunlukla yapay
 zekâ ajanlarıyla birlikte geliştiriyorum. Kodun tekrar eden, zaman alan kısmını

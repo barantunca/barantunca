@@ -1,13 +1,14 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-en-dark.svg">
-  <img alt="Baran Tunca: building software with AI agents. Software Engineering · Fırat University · İzmir" src="assets/header-en-light.svg" width="800">
-</picture>
+# Baran Tunca
+
+Software Engineering · Fırat University · İzmir
 
 [LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [Email](mailto:barantunca25@gmail.com) · [Türkçe](https://github.com/barantunca/barantunca/blob/main/README.md)
 
 </div>
+
+---
 
 I'm a third-year software engineering student, and most of the software I build these
 days I build together with AI agents. I leave the repetitive, time-consuming parts to
