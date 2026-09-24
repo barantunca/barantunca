@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="800" height="200" role="img" aria-labelledby="title desc">
+  <title id="title">Baran Tunca</title>
+  <desc id="desc">yapay zekâ ajanlarıyla yazılım geliştiriyorum / kararlar bende, tekrar eden iş ajanlarda / arayüzün küçük detaylarıyla uğraşıyorum. Yazılım Mühendisliği · Fırat Üniversitesi · İzmir</desc>
+  <style>
+    .name{font:700 42px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#e6edf3;letter-spacing:-0.5px}
+    .sub{font:400 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#9198a1}
+    .typed{font:400 20px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#e6edf3}
+    .prompt{font:700 20px ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace;fill:#58a6ff}
+    .cover{fill:#161b22;transform-box:fill-box;transform-origin:right center}
+    .cursor{fill:#58a6ff;opacity:0}
+    .blink{animation:blink 1s steps(1,end) infinite}
+    @keyframes blink{0%{opacity:1}50%{opacity:0}}
+.l0{opacity:0;animation:l0 16102ms infinite;animation-delay:-16102ms}
+@keyframes l0{
+0%{opacity:1;animation-timing-function:step-end}
+32.207%{opacity:0}
+100%{opacity:0}}
+.c0{animation:c0 16102ms infinite;animation-delay:-16102ms}
+@keyframes c0{
+0%{transform:scaleX(1);animation-timing-function:steps(45,end)}
+15.371%{transform:scaleX(0)}
+27.171%{transform:scaleX(0);animation-timing-function:steps(45,end)}
+32.201%{transform:scaleX(1)}
+100%{transform:scaleX(1)}}
+.k0{animation:k0 16102ms infinite;animation-delay:-16102ms}
+@keyframes k0{
+0%{opacity:1;transform:translateX(0);animation-timing-function:steps(45,end)}
+15.371%{opacity:1;transform:translateX(540px)}
+27.171%{opacity:1;transform:translateX(540px);animation-timing-function:steps(45,end)}
+32.201%{opacity:1;transform:translateX(0)}
+32.207%{opacity:0;transform:translateX(0)}
+100%{opacity:0;transform:translateX(0)}}
+.l1{opacity:0;animation:l1 16102ms infinite;animation-delay:-10467ms}
+@keyframes l1{
+0%{opacity:1;animation-timing-function:step-end}
+29.940%{opacity:0}
+100%{opacity:0}}
+.c1{animation:c1 16102ms infinite;animation-delay:-10467ms}
+@keyframes c1{
+0%{transform:scaleX(1);animation-timing-function:steps(40,end)}
+13.663%{transform:scaleX(0)}
+25.463%{transform:scaleX(0);animation-timing-function:steps(40,end)}
+29.934%{transform:scaleX(1)}
+100%{transform:scaleX(1)}}
+.k1{animation:k1 16102ms infinite;animation-delay:-10467ms}
+@keyframes k1{
+0%{opacity:1;transform:translateX(0);animation-timing-function:steps(40,end)}
+13.663%{opacity:1;transform:translateX(480px)}
+25.463%{opacity:1;transform:translateX(480px);animation-timing-function:steps(40,end)}
+29.934%{opacity:1;transform:translateX(0)}
+29.940%{opacity:0;transform:translateX(0)}
+100%{opacity:0;transform:translateX(0)}}
+.l2{opacity:0;animation:l2 16102ms infinite;animation-delay:-5197ms}
+@keyframes l2{
+0%{opacity:1;animation-timing-function:step-end}
+29.487%{opacity:0}
+100%{opacity:0}}
+.c2{animation:c2 16102ms infinite;animation-delay:-5197ms}
+@keyframes c2{
+0%{transform:scaleX(1);animation-timing-function:steps(39,end)}
+13.321%{transform:scaleX(0)}
+25.121%{transform:scaleX(0);animation-timing-function:steps(39,end)}
+29.481%{transform:scaleX(1)}
+100%{transform:scaleX(1)}}
+.k2{animation:k2 16102ms infinite;animation-delay:-5197ms}
+@keyframes k2{
+0%{opacity:1;transform:translateX(0);animation-timing-function:steps(39,end)}
+13.321%{opacity:1;transform:translateX(468px)}
+25.121%{opacity:1;transform:translateX(468px);animation-timing-function:steps(39,end)}
+29.481%{opacity:1;transform:translateX(0)}
+29.487%{opacity:0;transform:translateX(0)}
+100%{opacity:0;transform:translateX(0)}}
+    @media (prefers-reduced-motion: reduce){
+      .line,.cover,.cursor,.blink{animation:none!important}
+      .l0{opacity:1}
+      .c0{transform:scaleX(0)}
+      .l1,.l2{display:none}
+    }
+  </style>
+  <rect x="0.5" y="0.5" width="799" height="199" rx="14" fill="#161b22" stroke="#30363d"/>
+  <text x="400" y="78" text-anchor="middle" class="name">Baran Tunca</text>
+  <text x="118" y="128" class="prompt">›</text>
+  <g class="line l0">
+    <text x="142" y="128" textLength="540" lengthAdjust="spacing" class="typed">yapay zekâ ajanlarıyla yazılım geliştiriyorum</text>
+    <rect class="cover c0" x="141" y="106" width="542" height="30"/>
+    <g class="blink"><rect class="cursor k0" x="143" y="111" width="10" height="21" rx="1"/></g>
+  </g>
+  <g class="line l1">
+    <text x="142" y="128" textLength="480" lengthAdjust="spacing" class="typed">kararlar bende, tekrar eden iş ajanlarda</text>
+    <rect class="cover c1" x="141" y="106" width="482" height="30"/>
+    <g class="blink"><rect class="cursor k1" x="143" y="111" width="10" height="21" rx="1"/></g>
+  </g>
+  <g class="line l2">
+    <text x="142" y="128" textLength="468" lengthAdjust="spacing" class="typed">arayüzün küçük detaylarıyla uğraşıyorum</text>
+    <rect class="cover c2" x="141" y="106" width="470" height="30"/>
+    <g class="blink"><rect class="cursor k2" x="143" y="111" width="10" height="21" rx="1"/></g>
+  </g>
+  <text x="400" y="170" text-anchor="middle" class="sub">Yazılım Mühendisliği · Fırat Üniversitesi · İzmir</text>
+</svg>
