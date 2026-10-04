@@ -28,10 +28,6 @@ ama kullanması yoruyorsa bence bitmemiştir. O küçük detaylarla uğraşmayı
   randevularını telefondan takip ettiği basit bir uygulama.
   · [kaynak](https://github.com/barantunca/berber_randevu)
 
-## Kullandıklarım
-
-TypeScript, React, React Native (Expo), Python, FastAPI, Supabase, PostgreSQL. Tasarım tarafında Figma.
-
 ## İletişim
 
 [LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [barantunca25@gmail.com](mailto:barantunca25@gmail.com)
