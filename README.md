@@ -1,33 +1,11 @@
-<div align="center">
-
 # Baran Tunca
 
-Yazılım Mühendisliği · Fırat Üniversitesi · İzmir
+Fırat Üniversitesi'nde yazılım mühendisliği okuyorum, üçüncü sınıfım. İzmir'deyim.
 
-[LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [E-posta](mailto:barantunca25@gmail.com) · [English](https://github.com/barantunca/barantunca/blob/main/README.en.md)
+Kodun çoğunu yapay zekâ ajanlarıyla yazıyorum. Ne yapılacağına ve çıkanın doğru olup olmadığına ben bakıyorum. Zamanımı en çok ekranın nasıl hissettirdiğine harcıyorum. Mesela YerBul'da 9 ve 10 punto yazıyı yasakladım, çünkü o boyutta ğ'nin kuyruğu ile ı'nın noktası okunmuyordu.
 
-</div>
+**[YerBul](https://yer-bul.vercel.app)**: Kütüphane, etüt salonu ve kafelerin ne kadar dolu olduğunu öğrencilerin bildirimleriyle haritada gösteriyor. Şu an mobil sürümünü yazıyorum. [Kaynak](https://github.com/barantunca/yer-bul-showcase)
 
----
+**[Berber Randevu](https://berber-randevu-wheat.vercel.app)**: Berberlerin randevularını telefondan tutması için basit bir uygulama. [Kaynak](https://github.com/barantunca/berber_randevu)
 
-Üçüncü sınıf bir yazılım mühendisliği öğrencisi olarak, yazılımı çoğunlukla yapay
-zekâ ajanlarıyla birlikte geliştiriyorum. Kodun tekrar eden, zaman alan kısmını
-onlara bırakıyorum; neyin yapılacağına, nasıl bölüneceğine ve çıkan kodun doğru
-olup olmadığına ben karar veriyorum.
-
-Asıl uğraştığım yer, kullanıcının gördüğü taraf. Bir ekran çalışıyor olabilir,
-ama kullanması yoruyorsa bence bitmemiştir. O küçük detaylarla uğraşmayı seviyorum.
-
-## Yaptıklarım
-
-- **[YerBul](https://yer-bul.vercel.app)**: Kampüste oturacak yer bulmak için.
-  Kütüphane, etüt salonu ve kafelerin ne kadar dolu olduğunu öğrencilerden gelen
-  bildirimlerle haritada gösteriyor. Şu an mobil sürümü üzerinde çalışıyorum.
-  · [kaynak](https://github.com/barantunca/yer-bul-showcase)
-- **[Berber Randevu](https://berber-randevu-wheat.vercel.app)**: Berberlerin
-  randevularını telefondan takip ettiği basit bir uygulama.
-  · [kaynak](https://github.com/barantunca/berber_randevu)
-
-## İletişim
-
-[LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [barantunca25@gmail.com](mailto:barantunca25@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/baran-tunca/) · [barantunca25@gmail.com](mailto:barantunca25@gmail.com) · [English](https://github.com/barantunca/barantunca/blob/main/README.en.md)
