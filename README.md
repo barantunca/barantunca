@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=header&text=Baran%20Tunca&fontSize=48&fontAlignY=40&animation=fadeIn" alt="Baran Tunca" />
-
-</div>
+# Baran Tunca
 
 Fırat Üniversitesi'nde yazılım mühendisliği okuyorum, üçüncü sınıfım. İzmir'deyim.
 
